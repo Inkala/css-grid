@@ -60,7 +60,7 @@ h6 {
   align-items: center;
   border: 5px solid rgba(0, 0, 0, 0.03);
   border-radius: 3px;
-  font-size: 35px;
+  font-size: 25px;
   background-color: var(--yellow); /* best colour */
 }
 
